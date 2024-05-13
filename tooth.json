@@ -12,13 +12,7 @@
         ]
     },
     "dependencies": {
-        "github.com/LiteLDev/LegacyRemoteCall": "0.7.x",
-        "github.com/LiteLDev/LegacyParticleAPI": "0.7.x",
-        "github.com/LiteLDev/LegacyMoney": "0.7.x",
         "gitea.litebds.com/LiteLDev/legacy-script-engine-lua": "0.7.x"
-    },
-    "prerequisites": {
-        "github.com/LiteLDev/LeviLamina": "0.12.x"
     },
     "files": {
         "place": [
