@@ -3,8 +3,8 @@
   "tooth": "github.com/LianHuaa/tpa",
   "version": "0.0.1",
   "info": {
-    "name": "lua_tpa",
-    "description": "lua_tpa",
+    "name": "tpa",
+    "description": "tpa",
     "author": "LianHuaa",
     "tags": []
   },
