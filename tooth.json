@@ -1,22 +1,22 @@
 {
   "format_version": 2,
-  "tooth": "github.com/LianHuaa/LeviLaminaPlugins",
-  "version": "0.0.4",
+  "tooth": "github.com/LianHuaa/tpa",
+  "version": "0.0.1",
   "info": {
-    "name": "make",
-    "description": "make",
+    "name": "lua_tpa",
+    "description": "lua_tpa",
     "author": "LianHuaa",
     "tags": []
   },
   "files": {
     "place": [
       {
-        "src": "make.js",
-        "dest": "plugins/make/make.js"
+        "src": "tpa.lua",
+        "dest": "plugins/tpa/tpa.lua"
       },
       {
         "src": "manifest.json",
-        "dest": "plugins/make/manifest.json"
+        "dest": "plugins/tpa/manifest.json"
       }
     ]
   }
