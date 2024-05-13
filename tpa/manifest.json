@@ -1,0 +1,10 @@
+{
+    "entry": "tpa.lua",
+    "name": "tpa",
+    "type": "lse-lua",
+    "dependencies": [
+        {
+            "name": "legacy-script-engine-lua"
+        }
+    ]
+}
