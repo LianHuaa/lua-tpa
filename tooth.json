@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "tooth": "github.com/LianHuaa/tpa",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "info": {
         "name": "TPA",
         "description": "适用于LeviLamina的lua加载器的玩家传送",
