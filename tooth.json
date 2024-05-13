@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "tooth": "github.com/LianHuaa/LeviLaminaPlugins",
+  "version": "0.0.4",
+  "info": {
+    "name": "make",
+    "description": "make",
+    "author": "LianHuaa",
+    "tags": []
+  },
+  "files": {
+    "place": [
+      {
+        "src": "make.js",
+        "dest": "plugins/make/make.js"
+      },
+      {
+        "src": "manifest.json",
+        "dest": "plugins/make/manifest.json"
+      }
+    ]
+  }
+}
